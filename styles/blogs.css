@@ -21,7 +21,7 @@ body {
 /* Header */
 .header {
   background: #111;
-  color: white;
+  color: rgb(250, 172, 2);
   padding: 1rem 0;
 }
 
@@ -29,6 +29,7 @@ body {
   font-size: 1.8rem;
   font-weight: bold;
   text-align: center;
+  
 }
 
 .navbar {
